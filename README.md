@@ -58,10 +58,11 @@ We are collecting issues and feedback from the community through [this form](htt
 ## Citation
 If you find our work helpful, please consider citing:
 
-
+```bibtex
 @article{miyai2025juniorai,
   title={Jr. AI Scientist and Its Risk Report: Autonomous Scientific Exploration from a Baseline Paper},
   author={Miyai, Atsuyuki and Toyooka, Mashiro and Otonari, Takashi and Zhao, Zaiying and Aizawa, Kiyoharu},
   journal={arXiv preprint arXiv:2511.04583},
   year={2025}
 }
+```
