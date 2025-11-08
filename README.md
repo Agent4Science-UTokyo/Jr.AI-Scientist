@@ -1,4 +1,4 @@
-# Jr. AI Scientist and Its Risk Report: Autonomous Scientific Exploration from a Baseline Paper
+# Jr. AI Scientist and Its Risk Report: Autonomous Scientific Exploration from a Baseline Paper [arXiv](https://arxiv.org/abs/2511.04583)
 
 <div align="center">
 <br>
@@ -53,3 +53,15 @@ We plan to proceed with open-sourcing once we have gained a sufficient understan
 
 ## Community Feedback Form
 We are collecting issues and feedback from the community through [this form](https://docs.google.com/forms/d/e/1FAIpQLSdbzKqI0bfcdV4gjMYV-gZJzEXKViMOA0MrxEQ0nGAsSxgEzw/viewform?usp=sharing&ouid=103623120947968158097). This is intended to gather feedback from the community regarding issue with the paper, suggestions, and any other inquiries. Submissions can be made either anonymously or with your name.
+
+
+## Citation
+If you find our work helpful, please consider citing:
+
+
+@article{miyai2025juniorai,
+  title={Jr. AI Scientist and Its Risk Report: Autonomous Scientific Exploration from a Baseline Paper},
+  author={Miyai, Atsuyuki and Toyooka, Mashiro and Otonari, Takashi and Zhao, Zaiying and Aizawa, Kiyoharu},
+  journal={arXiv preprint arXiv:2511.04583},
+  year={2025}
+}
