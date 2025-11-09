@@ -1,4 +1,4 @@
-# Jr. AI Scientist and Its Risk Report: Autonomous Scientific Exploration from a Baseline Paper [arXiv](https://arxiv.org/abs/2511.04583)
+# Jr. AI Scientist and Its Risk Report: Autonomous Scientific Exploration from a Baseline Paper [[arXiv](https://arxiv.org/abs/2511.04583)]
 
 <div align="center">
 <br>
